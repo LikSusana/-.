@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+# 阿水！！！
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -49,13 +49,13 @@
         }
         
         .jingling {
-            background-color: #e6f7ff;
-            border-left: 5px solid #66b3ff;
+            background-color: #ffe6e6;
+            border-left: 5px solid #ff6666;
         }
         
         .ashui {
-            background-color: #ffe6e6;
-            border-left: 5px solid #ff6666;
+            background-color: #e6f7ff;
+            border-left: 5px solid #66b3ff;
             margin-left: 50px;
         }
         
