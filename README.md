@@ -96,7 +96,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>❤️ 嘿嘿 ❤️</h1>
+        <h1>❤️ 夏日里 ❤️</h1>
 
         <div class="dialogue ashui">
             <strong>阿水：</strong> 晚上好精灵。
@@ -129,7 +129,7 @@
     
     <audio id="bgMusic" loop>
         <!-- 这里需要替换为《命运》音乐文件 -->
-        <source src="[https://pan.xunlei.com/s/VO6MBuEyL7_dPqe34YxDWTUUA1?pwd=iyfg# 复制这段内容后打开手机迅雷App, 查看更方便](https://lw-sycdn.kuwo.cn/fcc0a13917a95685eaac80bab0577e2d/680ce115/resource/30106/trackmedia/M500000KOu5r16cFi5.mp3?bitrate$128&from=vip)">
+        <source src="(ID3)">
         您的浏览器不支持音频元素。
     </audio>
     
