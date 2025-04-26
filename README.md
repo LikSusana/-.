@@ -1,4 +1,4 @@
-# 阿水！！！
+ # 阿水！！！
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -96,28 +96,40 @@
 </head>
 <body>
     <div class="container">
-        <h1>❤️ 给阿水的 ❤️</h1>
+        <h1>❤️ 嘿嘿 ❤️</h1>
+
+        <div class="dialogue ashui">
+            <strong>阿水：</strong> 晚上好精灵。
+        </div>
         
         <div class="dialogue jingling">
-            <strong>精灵：</strong> 那我勇敢一次。
+            <strong>精灵：</strong> 晚上好。
         </div>
         
         <div class="dialogue ashui">
-            <strong>阿水：</strong> 叫老公。
+            <strong>阿水：</strong> 你对什么声音比较有感觉。
         </div>
         
         <div class="dialogue jingling">
-            <strong>精灵：</strong> 那不行！！！
+            <strong>精灵：</strong> 我也不知道。
+        </div>
+
+        <div class="dialogue ashui">
+            <strong>阿水：</strong> 有连麦习惯么。
         </div>
         
-        <div class="reaction">😂😂😂</div>
+        <div class="dialogue jingling">
+            <strong>精灵：</strong> 没试过。
+        </div>
+        
+        <div class="reaction">一次偶尔逛厅，难得的回复私信。命运的齿轮开始转动！！！</div>
     </div>
     
     <div class="music-control">🎵</div>
     
     <audio id="bgMusic" loop>
-        <!-- 这里需要替换为《爱的魔法》音乐文件 -->
-        <source src="https://music.163.com/song/media/outer/url?id=287035.mp3" type="audio/mpeg">
+        <!-- 这里需要替换为《命运》音乐文件 -->
+        <source src="[https://pan.xunlei.com/s/VO6MBuEyL7_dPqe34YxDWTUUA1?pwd=iyfg# 复制这段内容后打开手机迅雷App, 查看更方便](https://lw-sycdn.kuwo.cn/fcc0a13917a95685eaac80bab0577e2d/680ce115/resource/30106/trackmedia/M500000KOu5r16cFi5.mp3?bitrate$128&from=vip)">
         您的浏览器不支持音频元素。
     </audio>
     
