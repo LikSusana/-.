@@ -129,7 +129,7 @@
     
     <audio id="bgMusic" loop>
         <!-- 这里需要替换为《命运》音乐文件 -->
-        <source src="(ID3)">
+        <source src="(https://drive.google.com/file/d/1GSm0Ge6hvVzW-FpgqVa60U2Enz3eSTxh/view?usp=sharing)">
         您的浏览器不支持音频元素。
     </audio>
     
